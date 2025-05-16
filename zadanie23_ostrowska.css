@@ -1,0 +1,40 @@
+#pogrubienie_ostrowska {
+    font-size: 34px; 
+    color: #995BCE;
+    font-weight: bold;
+}
+
+#pochylona_ostrowska {
+    font-size: 39pt; 
+    color: #FDBF6A;
+    font-style: italic;
+}
+
+#index_gorny_ostrowska {
+    font-size: 1.4cm;
+    color: #AD8D1A;
+    vertical-align: super;
+}
+
+#index_dolny_ostrowska {
+    font-size: 2.3cm;
+    color: hsl(73%, 100%, 50%); 
+    vertical-align: sub;
+}
+
+#mono_ostrowska {
+    font-size: 44px; 
+    color: #2DDD6A;
+    font-family: monospace;
+}
+
+#powiekszenie_ostrowska {
+    color: #673D9C;
+    transform: scale(1.2);
+}
+
+#pomniejszenie_ostrowska {
+    color: hsl(203%, 100%, 50%); 
+    transform: scale(0.8);
+    font-size: 10px;
+}
