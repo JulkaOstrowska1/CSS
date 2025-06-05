@@ -3,7 +3,8 @@ width: 350pt;
 height: 2cm;
 padding : 20px;
 margin-left : 900px;
-border : 3px #FF00FF;
+border : 6px #FF00FF;
+font-size: 4mm;
 background: rgb(255, 255, 224); 
-border-style: ridged;
+border-style: ridge;
  }
